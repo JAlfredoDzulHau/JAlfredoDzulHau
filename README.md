@@ -1,7 +1,7 @@
 <h2 align="center">Hola👋, Soy Jose Alfredo Dzul Hau</h2>
 
   <p align="center" width="300" dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png">
+    <a target="_blank" rel="noopener noreferrer" >
        <img align="center" width="200" src="https://user-images.githubusercontent.com/70233261/150722910-3c8e82e7-e35c-43b4-a96f-08e2d1246c88.png" style="max-width: 100%;">
        <h3 align="center">Ingeniero en Informática💻👨‍💻</h3>
     </a>
