@@ -1,12 +1,14 @@
-Hola👋, soy Jose Alfredo Dzul Hau
-<BR>
-![Portada Linkedln](https://user-images.githubusercontent.com/70233261/150718801-0d427e2b-5878-4565-a3f9-91650484458b.png)
+<h3>Hola👋, soy Jose Alfredo Dzul Hau</h3>
 
 <h5>Ingeniero en Informática💻👨‍💻</h5>
+
+![Portada Linkedln](https://user-images.githubusercontent.com/70233261/150719042-2c9a2eb8-3c69-4ef0-bf56-d1b2286568dd.png)
+
+
 <p>Brindo estrategias optimas con conocimientos científicos y tecnológicos para el análisis, la gestión de servicios y la identificación de necesidades de seguridad en Tecnologías de la Información y ofrecer soluciones basadas en normas, marcos de referencia, estándares de calidad y seguridad vigentes que contribuyan a la productividad y el logro de los objetivos estratégicos de las organizaciones públicas y privadas, desempeñando profesionalmente ética en un contexto multicultural, comprometido con la sociedad y conservación del medio ambiente. </p>
 <BR>
 
-![Portada Twiter](https://user-images.githubusercontent.com/70233261/150718129-7fa0ba5a-92cb-44a4-b791-e4097219067a.png)
+
   
 
 
@@ -24,4 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<i class="bi bi-facebook"></i>
+
