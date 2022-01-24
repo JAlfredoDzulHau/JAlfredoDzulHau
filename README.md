@@ -1,4 +1,8 @@
 <h3>Hola👋, soy Jose Alfredo Dzul Hau</h3>
+<div>
+![Foto de perfil 2021](https://user-images.githubusercontent.com/70233261/150719690-62101484-c787-494d-ade1-85ad3485179e.png)
+
+</div>
 
 <h5>Ingeniero en Informática💻👨‍💻</h5>
 
