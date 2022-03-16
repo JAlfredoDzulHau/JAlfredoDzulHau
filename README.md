@@ -27,7 +27,8 @@
      <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" height="30" width="30"/>
      </a>
      <a>
-      <img src="https://img.icons8.com/ios-filled/50/000000/twitter-circled--v2.png" height="30" width="30"/>
+      <img src="![icons8-twitter-circled](https://user-images.githubusercontent.com/70233261/158498597-93821cdf-a292-451e-862a-c85c1ead55a0.gif)
+" height="30" width="30"/>
      </a>
   </p>
    
