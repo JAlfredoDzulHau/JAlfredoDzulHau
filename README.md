@@ -22,9 +22,8 @@
    <p align="center" dir="auto">
      <a href="https://linkedin.com/in/linkedin.com/in/josealfredodzulhau/" rel="nofollow">
        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin.com/in/josealfredodzulhau/" height="30" width="30" />
-    </a>
-     <a>
-     <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" height="30" width="30"/>
+     <a href= "https://github.com/JAlfredoDzulHau/JAlfredoDzulHau">
+     <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" height="30" width="30" alt=" https://github.com/JAlfredoDzulHau/JAlfredoDzulHau"/>
      </a>
      <a>
       <img src="https://img.icons8.com/color/48/000000/twitter-circled--v3.png" height="30" width="30"/>
