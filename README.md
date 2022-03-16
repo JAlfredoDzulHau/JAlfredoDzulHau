@@ -21,7 +21,7 @@
    
    <p align="center" dir="auto">
      <a href="https://linkedin.com/in/linkedin.com/in/josealfredodzulhau/" rel="nofollow">
-       <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin.com/in/josealfredodzulhau/" height="30" width="30" />
+       <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin.com/in/josealfredodzulhau/" height="30" width="30" />
     </a>
      <a>
      <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" height="30" width="30"/>
