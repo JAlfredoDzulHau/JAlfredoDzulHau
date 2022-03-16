@@ -56,10 +56,7 @@
               <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/70233261/150725766-4aaf5fe2-da18-4181-80d8-20ffa2e87aab.svg" style="max-                width: 100%;">
             </a>
             </g-emoji>
-            
               
-           
-          
   </h2>
   <ul dir="auto"> 
     <li>
