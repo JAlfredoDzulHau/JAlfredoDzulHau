@@ -92,4 +92,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  ![Status badge](https://img.shields.io/badge/status-%20terminado-green) 
 
