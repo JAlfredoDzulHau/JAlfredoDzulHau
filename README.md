@@ -47,7 +47,7 @@
                 </font>
             <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">
                 <font style="vertical-align: inherit;">
-                    <font style="vertical-align: inherit;">👨‍🎓 
+                    <font style="vertical-align: inherit;">👨‍🎓 <img src="https://img.icons8.com/color/48/000000/repository.png" height="30" width="30"/>
                     </font> 
                 </font>
             </g-emoji>
