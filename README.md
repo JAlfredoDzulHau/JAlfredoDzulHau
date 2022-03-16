@@ -67,7 +67,7 @@
     </li>
     <li>
       <font style="vertical-align: inherit;">
-        <font style="vertical-align: inherit;"><h4>Testimonio de Desempeño “SATIFACTORIO” CENEVAL: Examen General para el Egreso de la Licenciatura en Informática</h4> </font>
+        <font style="vertical-align: inherit;"><h4>Testimonio de Desempeño “SATISFACTORIO” CENEVAL: Examen General para el Egreso de la Licenciatura en Informática</h4> </font>
       </font>
     </li>
  </ul>
