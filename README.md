@@ -52,7 +52,7 @@
                 </font>
             </g-emoji>
             <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;">: Instituto Tecnológico Superior de Calkiní en el Estado de Campeche
+                <font style="vertical-align: inherit;">: Instituto Tecnológico Superior de Calkiní en el Estado de Campeche ![Status badge](https://img.shields.io/badge/status-%40terminado-green) 
                 </font>
             </fond>
             <a href="https://github.com/sponsors/M0nica">
@@ -93,5 +93,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-  ![Status badge](https://img.shields.io/badge/status-%20terminado-green) 
-
