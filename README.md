@@ -3,7 +3,7 @@
   <p align="center" width="300" dir="auto">
     <a target="_blank" rel="noopener noreferrer" >
        <img align="center" width="200" src="https://user-images.githubusercontent.com/70233261/150722910-3c8e82e7-e35c-43b4-a96f-08e2d1246c88.png" style="max-width: 100%;">
-       <h3 align="center">Ingeniero en Informática💻👨‍💻<img src="https://img.icons8.com/color/48/000000/console.png" height="30" width="30"/></h3>
+       <h3 align="center">Ingeniero en Informática💻👨‍💻</h3>
     </a>
  </p>
  
@@ -13,7 +13,7 @@
   </font>
   <strong>
     <font style="vertical-align: inherit;">
-      <font style="vertical-align: inherit;">Desarrollador Web</font>
+      <font style="vertical-align: inherit;">Desarrollador Web <img src="https://img.icons8.com/color/48/000000/internet--v1.png" height="30" width="30"/></font>
     </font>
  </strong>
  <font style="vertical-align: inherit;">
