@@ -51,7 +51,7 @@
                     </font> 
                 </font>
             </g-emoji>
-            <font style="vertical-align: inherit;">
+            <font>
                 <font>: Instituto Tecnológico Superior de Calkiní en el Estado de Campeche</font>
             </fond>
             <a href="https://github.com/sponsors/M0nica">
