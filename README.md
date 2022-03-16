@@ -13,7 +13,7 @@
   </font>
   <strong>
     <font style="vertical-align: inherit;">
-      <font style="vertical-align: inherit;">Desarrollador Web <img src="https://img.icons8.com/color/48/000000/internet--v1.png" height="30" width="30"/></font>
+      <font style="vertical-align: inherit;">Desarrollador Web</font>
     </font>
  </strong>
  <font style="vertical-align: inherit;">
