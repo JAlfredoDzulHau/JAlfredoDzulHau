@@ -52,7 +52,7 @@
                 </font>
                </font>
             </g-emoji>
-            <font>
+            <font style="vertical-align: inherit;">
                 <font style="vertical-align: inherit;">: Instituto Tecnológico Superior de Calkiní en el Estado de Campeche</font>
             </font>
           
