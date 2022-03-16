@@ -46,8 +46,8 @@
                   <font style="vertical-align: inherit;">Educación </font>
                 </font>
             <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">
-                <font style="vertical-align: inherit;">
-                    <font style="vertical-align: inherit;">👨‍🎓 <img src="https://img.icons8.com/color/48/000000/repository.png" height="20" width="20" />:
+                <font>
+                    <font style="vertical-align: inherit;">👨‍🎓 <img src="https://img.icons8.com/color/48/000000/repository.png" height="20" width="20" /> :
                  </font>
                 <font style="vertical-align: inherit;">
                   <h3>Instituto Tecnológico Superior de Calkiní en el Estado de Campeche</h3>
