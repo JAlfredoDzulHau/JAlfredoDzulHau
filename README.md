@@ -44,7 +44,7 @@
         <a id="user-content-find-me-around-the-web--" class="anchor" aria-hidden="true" href="#find-me-around-the-web--">
                 <font style="vertical-align: inherit;">
                   <font style="vertical-align: inherit;">Educación </font>
-                </font>
+                
             <g-emoji class="g-emoji" alias="earth_americas" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30e.png">
                 <font style="vertical-align: inherit;">
                     <font style="vertical-align: inherit;">👨‍🎓 <img src="https://img.icons8.com/color/48/000000/repository.png" height="20" width="20"/>
@@ -54,6 +54,7 @@
             <font>
                 <h3>: Instituto Tecnológico Superior de Calkiní en el Estado de Campeche</h3>
             </font>
+          </font>
             <a href="https://github.com/sponsors/M0nica">
               <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/70233261/150725766-4aaf5fe2-da18-4181-80d8-20ffa2e87aab.svg" style="max-                width: 100%;">
         </a>
